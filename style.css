@@ -34,6 +34,7 @@ a {
 .logo {
     font-weight: 900;
     font-size: 22px;
+    padding: 10px;
 }
 
 .nav-button,
